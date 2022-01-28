@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @laksa96
-- 👀 I’m interested in Web Development (Frontend and Backend)
+# Hello there 👋
+
+- 🔭 I’m a Growing Developer, currently working on learning a frontend framework (React, Angular or Vue)
+- 👀 I’m interested in business and investing
 - 💞️ I’m looking to collaborate on multiple different projects and extend my experience and knowledge
-- 📫 Email me at mladenoviclazar96@gmail.com or on instagram @laksa96 for a collaboration
+- ⚡ Fun fact: I love gaming, gym, reading and coding
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘... visit New Orleans
+
+
 
 <!---
 laksa96/laksa96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
