@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 🔭 I’m a Growing Developer, currently working on learning a frontend framework (React, Angular or Vue)
+- 🔭 I’m a Growing Developer, currently working on learning React
 - 👀 I’m interested in business and investing
 - 💞️ I’m looking to collaborate on multiple different projects and extend my experience and knowledge
 - ⚡ Fun fact: I love gaming, gym, reading and coding
