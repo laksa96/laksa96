@@ -4,7 +4,7 @@
 - 👀 I’m interested in business and investing
 - 💞️ I’m looking to collaborate on multiple different projects and extend my experience and knowledge
 - ⚡ Fun fact: I love gaming, gym, reading and coding
-- 🤞 One day i hope to... visit New Orleans
+- 🤞 One day i hope to... visit New Orleans, sit in Cafe and listen to Jazz
 
 
 
