@@ -1,9 +1,9 @@
 # Hello there 👋
 
-- 🔭 I’m a Growing Developer, currently working on learning React and NodeJS
-- 👀 I’m interested in business and investing
+- 🔭 I’m a Growing Developer, currently working with NestJS (NodeJS) and Typescript while also learning and improving skills in React and React Native
+- 👀 I’m interested in tech / software
 - 💞️ I’m looking to collaborate on multiple different projects and extend my experience and knowledge
-- ⚡ Fun fact: I love gaming, gym, reading and coding
+- ⚡ Fun fact: I love gaming, anime, reading and coding
 
 
 
